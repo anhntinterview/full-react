@@ -1,0 +1,7 @@
+input[type='checkbox']:checked + label svg {
+    display: block;
+}
+
+.custom-input:checked ~ label:first-of-type {
+    background-color: #0071ce;
+}

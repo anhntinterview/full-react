@@ -1,0 +1,58 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ooolab.vle.development",
+      "sha256_cert_fingerprints": [
+        "12:57:62:44:98:B6:AD:35:E6:E8:69:33:33:9F:30:B2:17:C5:B2:DD:C9:89:39:C8:45:49:9C:40:F7:AB:67:84",
+        "B7:DE:F5:DE:86:28:18:3E:4F:CD:1D:1F:E8:E2:C2:2F:9A:DB:B7:CE:F2:7E:36:3F:21:1C:21:1B:B9:25:69:BD",
+        "3A:C7:B2:0F:EA:CF:9F:57:20:81:34:C8:CF:53:5B:FF:38:C7:2D:F3:A4:2C:95:42:6D:E1:B0:57:95:45:36:8F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ooolab.vle.staging",
+      "sha256_cert_fingerprints": [
+        "12:57:62:44:98:B6:AD:35:E6:E8:69:33:33:9F:30:B2:17:C5:B2:DD:C9:89:39:C8:45:49:9C:40:F7:AB:67:84",
+        "B7:DE:F5:DE:86:28:18:3E:4F:CD:1D:1F:E8:E2:C2:2F:9A:DB:B7:CE:F2:7E:36:3F:21:1C:21:1B:B9:25:69:BD",
+        "3A:C7:B2:0F:EA:CF:9F:57:20:81:34:C8:CF:53:5B:FF:38:C7:2D:F3:A4:2C:95:42:6D:E1:B0:57:95:45:36:8F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ooolab.vle.beta",
+      "sha256_cert_fingerprints": [
+        "12:57:62:44:98:B6:AD:35:E6:E8:69:33:33:9F:30:B2:17:C5:B2:DD:C9:89:39:C8:45:49:9C:40:F7:AB:67:84",
+        "B7:DE:F5:DE:86:28:18:3E:4F:CD:1D:1F:E8:E2:C2:2F:9A:DB:B7:CE:F2:7E:36:3F:21:1C:21:1B:B9:25:69:BD",
+        "3A:C7:B2:0F:EA:CF:9F:57:20:81:34:C8:CF:53:5B:FF:38:C7:2D:F3:A4:2C:95:42:6D:E1:B0:57:95:45:36:8F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ooolab.vle",
+      "sha256_cert_fingerprints": [
+        "12:57:62:44:98:B6:AD:35:E6:E8:69:33:33:9F:30:B2:17:C5:B2:DD:C9:89:39:C8:45:49:9C:40:F7:AB:67:84",
+        "B7:DE:F5:DE:86:28:18:3E:4F:CD:1D:1F:E8:E2:C2:2F:9A:DB:B7:CE:F2:7E:36:3F:21:1C:21:1B:B9:25:69:BD",
+        "3A:C7:B2:0F:EA:CF:9F:57:20:81:34:C8:CF:53:5B:FF:38:C7:2D:F3:A4:2C:95:42:6D:E1:B0:57:95:45:36:8F"
+      ]
+    }
+  }
+]

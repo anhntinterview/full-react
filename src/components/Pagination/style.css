@@ -1,0 +1,32 @@
+.pagination {
+    border-top: 1px solid #edeef2;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.pagination > ul {
+    padding: 0;
+    margin: 0;
+}
+
+.pagination li {
+    display: inline-block;
+}
+
+li {
+    padding: 0.5rem;
+    display: inline-block;
+    cursor: pointer;
+    background-color: #fff;
+    color: #707885;
+}
+
+.pagination li > a:focus {
+    outline: none;
+}
+.selected {
+    border-top: 5px solid #0071CE;
+    color: #0071CE;
+    font-weight: 500;
+}

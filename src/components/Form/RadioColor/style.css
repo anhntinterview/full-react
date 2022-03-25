@@ -1,0 +1,9 @@
+label svg {
+    display: none;
+}
+
+
+input[type='radio']:checked +label svg {
+    display: inline-block;
+}
+
